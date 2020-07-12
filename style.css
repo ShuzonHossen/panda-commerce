@@ -1,0 +1,34 @@
+.container{
+    margin-bottom: 100px;
+}
+.orange-bg{
+   background-color: #fceae8;
+   border-radius: 10px;
+}
+.carousel-item{
+    padding: 20px 40px; 
+}
+.pric{
+    color:#ff136f;
+}
+ .buy-now-button{
+background-color: #ff136f;
+   color: #fff;
+   border: none;
+   border-radius: 8px;
+   padding: 8px 20px;
+   cursor: pointer;
+} 
+.cat1, .cat2, .cat3{
+    padding: 10px 30px;
+    border-radius: 15px;
+}
+.cat1{
+background-color:orange ;
+}
+.cat2{
+background-color:orchid ;
+}
+.cat3{
+background-color: blue;
+}
